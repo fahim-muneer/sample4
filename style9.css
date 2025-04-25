@@ -1,0 +1,31 @@
+.fluid{
+height: 35px;
+ 
+}
+.rw:hover{
+    background-color: rgb(68, 65, 65);
+    height: 35px;
+}
+.hieght{
+   height: 80px ;
+}
+body{
+    margin: 0%;
+}
+.main{
+    size: inherit;
+}
+.bot{
+    height: 50px;
+    width: 100px;
+background-color: black;
+}
+.hwr:hover{
+   height: 50px;
+    width: 100px;
+    background-color:black;
+}
+.fld{
+height: 450px;
+ 
+}
